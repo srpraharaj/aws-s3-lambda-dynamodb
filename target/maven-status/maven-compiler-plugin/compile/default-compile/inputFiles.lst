@@ -1,0 +1,12 @@
+C:\Users\SrutiranjanPraharaj\Desktop\Java Projects\stsws\s3-lambda-dynamodb-java\src\main\java\com\ranjan\aws\handler\S3CSVReaderHandler.java
+C:\Users\SrutiranjanPraharaj\Desktop\Java Projects\stsws\s3-lambda-dynamodb-java\src\main\java\com\ranjan\aws\s3\S3EventNotification.java
+C:\Users\SrutiranjanPraharaj\Desktop\Java Projects\stsws\s3-lambda-dynamodb-java\src\main\java\com\ranjan\aws\util\Constants.java
+C:\Users\SrutiranjanPraharaj\Desktop\Java Projects\stsws\s3-lambda-dynamodb-java\src\main\java\com\ranjan\aws\LambdaHandler.java
+C:\Users\SrutiranjanPraharaj\Desktop\Java Projects\stsws\s3-lambda-dynamodb-java\src\main\java\com\ranjan\aws\util\ServiceUtil.java
+C:\Users\SrutiranjanPraharaj\Desktop\Java Projects\stsws\s3-lambda-dynamodb-java\src\main\java\com\ranjan\aws\s3\S3Manager.java
+C:\Users\SrutiranjanPraharaj\Desktop\Java Projects\stsws\s3-lambda-dynamodb-java\src\main\java\com\ranjan\aws\dynamodb\DynamoDBManager.java
+C:\Users\SrutiranjanPraharaj\Desktop\Java Projects\stsws\s3-lambda-dynamodb-java\src\main\java\com\ranjan\aws\handler\S3ReadWriteHandler.java
+C:\Users\SrutiranjanPraharaj\Desktop\Java Projects\stsws\s3-lambda-dynamodb-java\src\main\java\com\ranjan\aws\s3\PutObject.java
+C:\Users\SrutiranjanPraharaj\Desktop\Java Projects\stsws\s3-lambda-dynamodb-java\src\main\java\com\ranjan\aws\handler\S3JSONReaderHandler.java
+C:\Users\SrutiranjanPraharaj\Desktop\Java Projects\stsws\s3-lambda-dynamodb-java\src\main\java\com\ranjan\aws\model\Employee.java
+C:\Users\SrutiranjanPraharaj\Desktop\Java Projects\stsws\s3-lambda-dynamodb-java\src\main\java\com\ranjan\aws\s3\GetObject.java
