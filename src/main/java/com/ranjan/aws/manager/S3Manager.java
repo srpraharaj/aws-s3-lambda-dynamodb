@@ -1,4 +1,4 @@
-package com.ranjan.aws.s3;
+package com.ranjan.aws.manager;
 
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.AmazonS3ClientBuilder;

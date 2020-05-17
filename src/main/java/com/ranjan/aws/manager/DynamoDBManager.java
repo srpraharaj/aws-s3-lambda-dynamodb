@@ -1,4 +1,4 @@
-package com.ranjan.aws.dynamodb;
+package com.ranjan.aws.manager;
 
 import com.amazonaws.services.dynamodbv2.AmazonDynamoDB;
 import com.amazonaws.services.dynamodbv2.AmazonDynamoDBClientBuilder;

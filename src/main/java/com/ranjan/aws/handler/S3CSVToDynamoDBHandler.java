@@ -12,7 +12,7 @@ import com.amazonaws.services.lambda.runtime.RequestHandler;
 import com.amazonaws.services.lambda.runtime.events.S3Event;
 import com.amazonaws.services.s3.event.S3EventNotification.S3EventNotificationRecord;
 import com.amazonaws.services.s3.model.S3Object;
-import com.ranjan.aws.dynamodb.DynamoDBManager;
+import com.ranjan.aws.manager.DynamoDBManager;
 import com.ranjan.aws.s3.GetObject;
 import com.ranjan.aws.util.Constants;
 import com.ranjan.aws.util.ServiceUtil;
